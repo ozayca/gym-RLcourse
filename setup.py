@@ -1,6 +1,8 @@
 from setuptools import setup
 
 setup(name='gym_RLcourse',
-      version='0.0.1',
-     install_requires=['gym']
+      author='Ayca Özcelikkale',
+      url='https://github.com/ozayca/gym-RLcourse',
+      packages=["gym_RLcourse"],
+      install_requires=['gym']
 )
